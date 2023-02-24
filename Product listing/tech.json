@@ -1,0 +1,319 @@
+[
+    {
+        "brandName": "APPLE",
+        "brandLogo": "https://n11scdn.akamaized.net/a1/602_857/06/57/42/38/IMG-1490595552500522691.jpg",
+        "brandImage": "https://www.apple.com/newsroom/images/product/iphone/geo/Apple_iPhone-13-Pro_iPhone-13-Pro-Max_GEO_09142021_inline.jpg.large.jpg",
+        "products": [
+          {
+              "name": "Apple iPhone 14 Pro Max 256 GB (Apple Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/16/02/92/21/IMG-3855916532628465776.jpg",
+              "price": 47.999,
+              "brand": "APPLE"
+          },
+          {
+              "name": "Apple iPhone 14 Pro 128 GB (Apple Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/16/02/92/21/IMG-3855916532628465776.jpg",
+              "price": 40.499,
+              "oldPrice": 42.599,
+              "brand": "APPLE"
+          },
+          {
+              "name": "Apple iPhone 12 Mini 64 GB (Apple Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/10/58/16/48/IMG-886907971619553650.jpg",
+              "price": 20.499,
+              "brand": "APPLE"
+          },
+          {
+              "name": "Apple iPhone 13 Pro Max 128 GB (Apple Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/07/22/51/84/IMG-2417827162270323723.jpg",
+              "price": 43.999,
+              "oldPrice": 45.999,
+              "brand": "APPLE"
+          },
+          {
+              "name": "Apple iPhone 14 256 GB (Apple Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/16/04/80/33/IMG-9061911916929806053.jpg",
+              "price": 34.999,
+              "brand": "APPLE"
+          },
+          {
+              "name": "Apple iPhone SE 2020 256 GB (Apple Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/03/67/48/34/95953048.jpg",
+              "price": 19.999,
+              "brand": "APPLE"
+          }
+        ]
+    },
+    {
+        "brandName": "SAMSUNG",
+        "brandLogo": "https://logos-world.net/wp-content/uploads/2020/04/Samsung-Symbol.png",
+        "brandImage": "https://images.samsung.com/tr/smartphones/galaxy-z-fold4/images/galaxy-z-fold4_highlights_accessories.jpg",
+        "products": [
+          {
+              "name": "Samsung Galaxy S22 Ultra 128 GB (Samsung Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/13/06/92/14/IMG-194547436159003013.jpg",
+              "price": 29.999,
+              "brand": "SAMSUNG"
+          },
+          {
+              "name": "Samsung Galaxy S22 128 GB (Samsung Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/15/71/91/16/IMG-8359481641337338877.jpg",
+              "price": 17.999,
+              "brand": "SAMSUNG"
+          },
+          {
+              "name": "Samsung Galaxy S22+ 128 GB (Samsung Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/02/65/51/08/IMG-7536905794025217141.jpg",
+              "price": 23.999,
+              "brand": "SAMSUNG"
+          },
+          {
+              "name": "Samsung Galaxy Z Flip3 5G 128 GB (Samsung Türkiye Garantili)",
+              "image": "https://n11scdn1.akamaized.net/a1/602_857/13/93/12/24/IMG-3377598197489096627.jpg",
+              "price": 17.999,
+              "brand": "SAMSUNG"
+          },
+          {
+              "name": "Samsung Galaxy Z Fold4 256 GB (Samsung Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/07/93/46/79/IMG-8996935401793616283.jpg",
+              "price": 43.999,
+              "oldPrice": 46.999,
+              "brand": "SAMSUNG"
+          },
+          {
+              "name": "Samsung Galaxy Note20 Ultra 256 GB (Samsung Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/12/14/12/97/20548074.jpeg",
+              "price": 26.999,
+              "brand": "SAMSUNG"
+          }
+        ]
+    },
+    {
+        "brandName": "HUAWEI",
+        "brandLogo": "https://www-file.huawei.com/-/media/corp/home/image/logo_400x200.png",
+        "brandImage": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/phones/nova-y90/imgs/huawei-nova-y90-colour1@2X.webp",
+        "products": [
+          {
+              "name": "Huawei Mate XS 512 GB (Huawei Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/12/42/72/13/48062122.jpg",
+              "price": 47.499,
+              "brand": "HUAWEI"
+          },
+          {
+              "name": "Huawei Mate 40 Pro Duos 256 GB (Huawei Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/13/71/04/96/71515264.png",
+              "price": 32.999,
+              "oldPrice": 34.999,
+              "brand": "HUAWEI"
+          },
+          {
+              "name": "Huawei Mate 50 Pro 256 GB (Huawei Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/01/40/95/41/IMG-4216818274879010865.jpg",
+              "price": 30.999,
+              "brand": "HUAWEI"
+          },
+          {
+              "name": "Huawei P50 Pro 256 GB (Huawei Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/04/59/54/34/IMG-4102139727788979012.jpg",
+              "price": 26.999,
+              "brand": "HUAWEI"
+          },
+          {
+              "name": "Huawei Nova 10 Pro 256 GB Cep Telefonu (Huawei Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/11/13/60/30/IMG-6708944599199219122.png",
+              "price": 18.999,
+              "brand": "HUAWEI"
+          },
+          {
+              "name": "Huawei P50 Pocket 256 GB (Huawei Türkiye Garantili)",
+              "image": "https://n11scdn1.akamaized.net/a1/602_857/14/82/98/72/IMG-7546412027524260998.png",
+              "price": 23.999,
+              "brand": "HUAWEI"
+          }
+        ]
+    },
+    {
+        "brandName": "XIAOMI",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Xiaomi_logo_%282021-%29.svg/768px-Xiaomi_logo_%282021-%29.svg.png",
+        "brandImage": "https://i02.appmifile.com/660_operatorx_operatorx_xm/02/09/2022/436eb43602a1624ca215a78e3ab4d95f.jpg?f=webp",
+        "products": [
+          {
+              "name": "Xiaomi 12T Pro 12 GB 256 GB (Xiaomi Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/13/15/93/10/IMG-2011539803629061724.jpg",
+              "price": 28.999,
+              "brand": "XIAOMI"
+          },
+          {
+              "name": "Xiaomi 11T Pro 8 GB 256 GB (Xiaomi Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/08/36/24/48/IMG-4679535546790307609.jpg",
+              "price": 27.999,
+              "oldPrice": 29.999,
+              "brand": "XIAOMI"
+          },
+          {
+              "name": "Xiaomi 12 12 GB 256 GB (Xiaomi Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/05/22/24/96/IMG-7553039512975939974.png",
+              "price": 24.999,
+              "brand": "XIAOMI"
+          },
+          {
+              "name": "Poco F4 GT 12 GB 256 GB (Xiaomi Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/01/64/33/76/IMG-1834999180312039662.png",
+              "price": 22.999,
+              "brand": "XIAOMI"
+          },
+          {
+              "name": "Poco X3 Pro 256 GB/8GB (Xiaomi Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/02/89/66/53/IMG-2470490432150582926.jpg",
+              "price": 19.999,
+              "brand": "XIAOMI"
+          },
+          {
+              "name": "Xiaomi Redmi Note 11 Pro 5G 8 GB 128 GB (Xiaomi Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/11/33/83/61/IMG-1237774936895785567.jpg",
+              "price": 15.999,
+              "oldPrice": 17.999,
+              "brand": "XIAOMI"
+          }
+        ]
+    },
+    {
+        "brandName": "OPPO",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/1/1c/OPPO_LOGO.jpg",
+        "brandImage": "https://www.oppo.com/content/dam/oppo/product-asset-library/reno/reno5/athena-marvel/v1/assets/img_1_1920-5cddbb.jpg.webp",
+        "products": [
+          {
+              "name": "Oppo Reno2 Z 128 GB (Oppo Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/11/30/58/55/37771629.jpg",
+              "price": 18.999,
+              "brand": "OPPO"
+          },
+          {
+              "name": "Oppo Reno 7 8 GB 128 GB (Oppo Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/01/07/35/80/IMG-6541845249204313943.png",
+              "price": 12.999,
+              "brand": "OPPO"
+          },
+          {
+              "name": "Oppo Reno 6 8 GB 128 GB (Oppo Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/13/72/92/39/IMG-5159159462031463800.jpg",
+              "price": 11.999,
+              "oldPrice": 12.999,
+              "brand": "OPPO"
+          },
+          {
+              "name": "Oppo Reno 4 128 GB (Oppo Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/12/19/57/78/49939471.png",
+              "price": 11.499,
+              "oldPrice": 12.999,
+              "brand": "OPPO"
+          },
+          {
+              "name": "Oppo Reno 5 Lite 128 GB (Oppo Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/08/00/88/02/IMG-4410883560904999828.jpg",
+              "price": 10.299,
+              "brand": "OPPO"
+          },
+          {
+              "name": "Oppo A96 6 GB 128 GB (Oppo Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/13/32/72/74/IMG-2565643677038216527.jpg",
+              "price": 8.999,
+              "brand": "OPPO"
+          }
+        ]
+    },
+    {
+        "brandName": "GENERAL MOBILE",
+        "brandLogo": "https://hwp.com.tr/wp-content/uploads/2021/09/General-Mobile-Ultimate-Slim.jpg",
+        "brandImage": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/general-mobile/thumb/132109-3_large.jpg",
+        "products": [
+          {
+              "name": "General Mobile GM 22 Pro 8 GB 128 GB (General Mobile Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/16/61/70/13/IMG-468354168901423046.png",
+              "price": 7.999,
+              "brand": "GENERAL MOBILE"
+          },
+          {
+              "name": "General Mobile GM 20 Pro 128 GB (General Mobile Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/02/66/98/90/80247830.png",
+              "price": 7.999,
+              "brand": "GENERAL MOBILE"
+          },
+          {
+              "name": "General Mobile GM21 Pro 6 GB 128 GB (General Mobile Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/05/16/29/39/IMG-5615759631669193754.png",
+              "price": 6.499,
+              "oldPrice": 7.499,
+              "brand": "GENERAL MOBILE"
+          },
+          {
+              "name": "General Mobile GM 22 Plus 4 GB 128 GB (General Mobile Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/04/88/75/56/IMG-3518703370413505330.png",
+              "price": 5.999,
+              "brand": "GENERAL MOBILE"
+          },
+          {
+              "name": "General Mobile GM21 Plus Duos 4 GB 64 GB (General Mobile Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/01/11/98/14/IMG-7652719418511077965.png",
+              "price": 5.299,
+              "brand": "GENERAL MOBILE"
+          },
+          {
+              "name": "General Mobile GM21 Pro New Edition 6 GB 128 GB (General Mobile Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/05/04/53/95/IMG-2098060267872533031.jpg",
+              "price": 4.999,
+              "brand": "GENERAL MOBILE"
+          }
+        ]
+    
+    },
+    {
+        "brandName": "APPLE",
+        "brandLogo": "https://i1.wp.com/hebegitim.com/wp-content/uploads/2019/04/casper-logo-1-2.jpg",
+        "brandImage": "https://productimages.hepsiburada.net/s/32/1500/10367132139570.jpg",
+        "products": [
+          {
+              "name": "Apple iPhone 14 Pro Max 256 GB (Apple Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/16/02/92/21/IMG-3855916532628465776.jpg",
+              "price": 47.999,
+              "oldPrice": 1299.9,
+              "brand": "APPLE"
+          },
+          {
+              "name": "Apple iPhone 14 Pro Max 256 GB (Apple Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/16/02/92/21/IMG-3855916532628465776.jpg",
+              "price": 47.999,
+              "oldPrice": 1299.9,
+              "brand": "APPLE"
+          },
+          {
+              "name": "Apple iPhone 14 Pro Max 256 GB (Apple Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/16/02/92/21/IMG-3855916532628465776.jpg",
+              "price": 47.999,
+              "oldPrice": 1299.9,
+              "brand": "APPLE"
+          },
+          {
+              "name": "Apple iPhone 14 Pro Max 256 GB (Apple Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/16/02/92/21/IMG-3855916532628465776.jpg",
+              "price": 47.999,
+              "oldPrice": 1299.9,
+              "brand": "APPLE"
+          },
+          {
+              "name": "Apple iPhone 14 Pro Max 256 GB (Apple Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/16/02/92/21/IMG-3855916532628465776.jpg",
+              "price": 47.999,
+              "oldPrice": 1299.9,
+              "brand": "APPLE"
+          },
+          {
+              "name": "Apple iPhone 14 Pro Max 256 GB (Apple Türkiye Garantili)",
+              "image": "https://n11scdn.akamaized.net/a1/602_857/16/02/92/21/IMG-3855916532628465776.jpg",
+              "price": 47.999,
+              "oldPrice": 1299.9,
+              "brand": "APPLE"
+          }
+        ]
+    }
+]
